@@ -13,7 +13,7 @@ Here's what you need to do to include the library in your project:
 If you're using NPM and a tool such as Webpack, simply download the package with the following command:
 
 ```
-npm install inviewr --save
+npm install evolvethemes-inviewr --save
 ```
 
 ### Standard way
@@ -47,3 +47,7 @@ When an element isn't viewable anymore, instead:
 When registering an object for tracking, the second parameter is an options object. As of today, these are the option settings available:
 
 * `toggle`: _false_ - When set to `true`, the classes are added/removed depending on the element's in-view status; if left to `false`, the class is not removed when the element goes out of view.
+
+## What's Evolve Themes
+
+At [Evolve](https://justevolve.it/) we're specialized in the creation of top notch products based on WordPress, and under the Evolve Themes brand we regularly publish and sell themes and plugins.
