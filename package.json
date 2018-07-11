@@ -1,6 +1,6 @@
 {
   "name": "evolvethemes-inviewr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript library to detect when elements come into view.",
   "main": "src/evolvethemes-inviewr.js",
   "scripts": {
