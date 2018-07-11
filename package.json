@@ -2,6 +2,14 @@
   "name": "evolvethemes-inviewr",
   "version": "1.0.1",
   "description": "JavaScript library to detect when elements come into view.",
+  "homepage": "https://github.com/Justevolve/inviewr#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Justevolve/inviewr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Justevolve/inviewr/issues"
+  },
   "main": "src/evolvethemes-inviewr.js",
   "scripts": {
     "lint": "jshint --verbose src/evolvethemes-inviewr.js",
