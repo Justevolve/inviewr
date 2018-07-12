@@ -18,7 +18,7 @@ npm install evolvethemes-inviewr --save
 
 ### Standard way
 
-Download the [minified script](https://raw.githubusercontent.com/andreg/inviewr/master/dist/evolvethemes-inviewr.min.js) from the `dist` folder in this repository (the `master` branch holds the latest release, while the `dev` branch is for development purposes).
+Download the [minified script](https://raw.githubusercontent.com/Justevolve/inviewr/master/dist/evolvethemes-inviewr.min.js) from the `dist` folder in this repository (the `master` branch holds the latest release, while the `dev` branch is for development purposes).
 
 ## Usage
 
